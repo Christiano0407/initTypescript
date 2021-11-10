@@ -35,6 +35,16 @@ Course Typescript and Javascript Vanilla
 
 - [typescript_GitHub](https://github.com/luixaviles/platzi-typescript)
 
+# Eliminar Node_module
+
+> Eliminar node_modules / Del Disco Duro>
+
+- [node_module](https://www.npmjs.com/package/npkill)
+  > Video
+- [midulive](https://www.youtube.com/watch?v=G9d9FCcdbgA)
+  > npm
+- [npm npkill](https://www.npmjs.com/package/npkill)
+
 # MIT License
 
 - MIT License
