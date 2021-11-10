@@ -14,6 +14,12 @@ Course Typescript and Javascript Vanilla
   > Compila de manera automática
 - `tsc --watch your_file.ts`
   > your_file.js / compatible con todo
+  > Busca la config dentro del proyecto
+- `tsc`
+  > Especifica el directorio donde esta la config
+- `tsc --project`
+  > Omite la config
+- `tsc file.ts`
 
 # MIT License
 
