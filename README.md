@@ -8,11 +8,11 @@ Course Typescript and Javascript Vanilla
 
 - [editorJs](https://editorjs.io/)
   > Clone Project Editor Js / Typescript
-  > `git clone https://github.com/codex-team/editor.js`
+- `git clone https://github.com/codex-team/editor.js`
   > Typescript Compilar / fichero
-  > `tss your_file.ts`
+- `tss your_file.ts`
   > Compila de manera automática
-  > `tsc --watch your_file.ts`
+- `tsc --watch your_file.ts`
   > your_file.js / compatible con todo
 
 # MIT License
