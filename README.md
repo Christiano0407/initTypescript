@@ -7,6 +7,8 @@ Course Typescript and Javascript Vanilla
 > Project Typescript
 
 - [editorJs](https://editorjs.io/)
+  > Clone Project Editor Js / Typescript
+  > `git clone https://github.com/codex-team/editor.js`
 
 # MIT License
 
