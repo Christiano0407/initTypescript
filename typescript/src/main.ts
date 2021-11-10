@@ -1,4 +1,4 @@
-console.log("Hello first project");
+//console.log("Hello first project");
 
 // Example Number >>>
 let phone: number[] = [5553124520];
