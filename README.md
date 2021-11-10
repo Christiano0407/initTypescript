@@ -2,6 +2,12 @@
 
 Course Typescript and Javascript Vanilla
 
+# Typescript
+
+> Project Typescript
+
+- [editorJs](https://editorjs.io/)
+
 # MIT License
 
 - MIT License

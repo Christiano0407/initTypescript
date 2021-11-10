@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/Christiano0407/initTypescript/issues"
   },
-  "homepage": "https://github.com/Christiano0407/initTypescript#readme"
+  "homepage": "https://github.com/Christiano0407/initTypescript#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@editorjs/editorjs": "^2.22.2"
+  }
 }
