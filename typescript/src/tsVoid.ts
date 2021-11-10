@@ -27,3 +27,14 @@ showFormattedInfo({
   username: "Pammela",
   firstName: "Velázquez",
 });
+
+// Tipo: Never ==>
+function handleError(code: number, message: string): never {
+  // Process your code here!
+  // Generate message!
+  throw new Error(`${message}, code:${code}`);
+}
+//> Error => Nunca retorna un valor>
+try {
+  handleError(404, "Not found");
+} catch (error) {}
