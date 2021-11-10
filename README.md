@@ -21,6 +21,16 @@ Course Typescript and Javascript Vanilla
   > Omite la config
 - `tsc file.ts`
 
+# Platzi Course
+
+> Platzi Typescript Course
+
+- [Platzi](https://platzi.com)
+
+  > GitHub
+
+- [typescript_GitHub](https://github.com/luixaviles/platzi-typescript)
+
 # MIT License
 
 - MIT License
