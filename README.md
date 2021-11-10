@@ -24,6 +24,10 @@ Course Typescript and Javascript Vanilla
 - `npm install typescript ts-loader @types/express -D`
   > Unir con Webpack
 - `npm install webpack-node-externals -D`
+  > Node
+- `node dist/archivo.js`
+  > Ver cambios / Watch
+- `ts --watch`
 
 # Platzi Course
 
@@ -34,6 +38,14 @@ Course Typescript and Javascript Vanilla
   > GitHub
 
 - [typescript_GitHub](https://github.com/luixaviles/platzi-typescript)
+  > Any
+- Usado para capturar de tipo en el tiempo.
+- API Externos
+- Librería de terceros
+- Los valores pueden cambiar de tipo en el tiempo
+  > Void
+- Es lo opuesto a Any: representa la ausencia de tipo
+- Comúnmente se usa como tipo de retorno en funciones
 
 # Eliminar Node_module
 
@@ -44,6 +56,25 @@ Course Typescript and Javascript Vanilla
 - [midulive](https://www.youtube.com/watch?v=G9d9FCcdbgA)
   > npm
 - [npm npkill](https://www.npmjs.com/package/npkill)
+
+# Modelo Cliente / Servidor
+
+> Cliente (Navegador que lee HTML, CSS y JS)
+
+- Se envía una solicitud al Backend (Python, Go, Node, Java, etc.) a través de una URI
+- El Backend recibe la solicitud y toma decisiones en base a ella
+- El Backend consulta la Base de Datos (MySQL, Oracle, MongoDB, etc.) en caso de ser necesario
+- El Backend devuelve una respuesta que el navegador pueda leer, muchas veces datos en formato JSON
+- El Cliente recibe los datos JSON y los parsea para mostrarlos en HTML, información presentada muy linda
+  > Image (Platzi)
+  > ![](https://i.stack.imgur.com/mcTKf.jpg)
+
+# API
+
+> Lecturas
+
+- [Intro APIs](https://platzi.com/clases/1751-webscraping/24807-introduccion-a-apis/)
+- [Conociendo una API](https://platzi.com/clases/1653-digital-ocean/21724-conociendo-una-api/)
 
 # MIT License
 
