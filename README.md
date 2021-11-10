@@ -20,6 +20,10 @@ Course Typescript and Javascript Vanilla
 - `tsc --project`
   > Omite la config
 - `tsc file.ts`
+  > Configure Typescript / express
+- `npm install typescript ts-loader @types/express -D`
+  > Unir con Webpack
+- `npm install webpack-node-externals -D`
 
 # Platzi Course
 
