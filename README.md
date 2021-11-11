@@ -46,6 +46,9 @@ Course Typescript and Javascript Vanilla
   > Void
 - Es lo opuesto a Any: representa la ausencia de tipo
 - Comúnmente se usa como tipo de retorno en funciones
+  > Tupla
+- Las tuplas permiten expresar un arreglo con un número fijo de elementos.
+- Los tipos de datos son conocidos.
 
 # Eliminar Node_module
 
