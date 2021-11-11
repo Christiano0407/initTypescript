@@ -49,7 +49,9 @@ Course Typescript and Javascript Vanilla
   > Tupla
 - Las tuplas permiten expresar un arreglo con un número fijo de elementos.
 - Los tipos de datos son conocidos.
-
+  > Enum 
+- Los enumerados permiten definir un conjunto de constantes con nombre.
+- Tienen la ventaja de adaptarse al contexto de la aplicación.
 # Eliminar Node_module
 
 > Eliminar node_modules / Del Disco Duro>
