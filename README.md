@@ -76,6 +76,10 @@ Course Typescript and Javascript Vanilla
 - [Intro APIs](https://platzi.com/clases/1751-webscraping/24807-introduccion-a-apis/)
 - [Conociendo una API](https://platzi.com/clases/1653-digital-ocean/21724-conociendo-una-api/)
 
+# Resources Frontend-Web-Development
+
+> Front-end -[gitHub_front](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+
 # MIT License
 
 - MIT License
