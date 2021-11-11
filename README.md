@@ -49,9 +49,13 @@ Course Typescript and Javascript Vanilla
   > Tupla
 - Las tuplas permiten expresar un arreglo con un número fijo de elementos.
 - Los tipos de datos son conocidos.
-  > Enum 
+  > Enum
 - Los enumerados permiten definir un conjunto de constantes con nombre.
 - Tienen la ventaja de adaptarse al contexto de la aplicación.
+  > Unión de Tipos
+- En Typescript se puede definir una variable con múltiples tipos de datos: Union Type.
+- Se usa el símbolo de pipe(`|`) entre los tipos.
+
 # Eliminar Node_module
 
 > Eliminar node_modules / Del Disco Duro>
@@ -84,6 +88,7 @@ Course Typescript and Javascript Vanilla
 # Resources Frontend-Web-Development
 
 > Front-end -[gitHub_front](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+> RoadMap - [roadMap](https://roadmap.sh/)
 
 # MIT License
 
